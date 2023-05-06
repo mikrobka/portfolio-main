@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "number": "Project 1",
+      "title": "",
+      "description": "",
+      "image": "",
+      "github": "",
+      "url": "",
+      "stack": ""
+    },
+    {
+      "number": "Project 2",
+      "title": "",
+      "description": "",
+      "image": "",
+      "github": "",
+      "url": "",
+      "stack": ""
+    }
+  ]
+}

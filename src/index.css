@@ -1,0 +1,23 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  background: #4776E6;
+  background: -webkit-linear-gradient(
+    to right,
+    #091150,
+    #096cc2
+  );
+  background: linear-gradient(
+    to right,
+    #151c4f,
+    #69b0ef
+  );
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+

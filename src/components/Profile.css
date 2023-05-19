@@ -20,7 +20,7 @@
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .name {
@@ -30,7 +30,6 @@ h1 {
 .slogan {
   margin-bottom: 0px;
   color: rgba(0, 0, 0, 0.492);
-
   margin-top: 0px;
 }
 

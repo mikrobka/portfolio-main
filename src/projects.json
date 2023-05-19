@@ -2,21 +2,21 @@
   "projects": [
     {
       "number": "Project 1",
-      "title": "",
-      "description": "",
+      "title": "Social Network",
+      "description": "My pet project to create my own social network",
       "image": "",
       "github": "",
       "url": "",
-      "stack": ""
+      "stack": ["react.js", "typescript", "redux"]
     },
     {
       "number": "Project 2",
-      "title": "",
-      "description": "",
+      "title": "TodoList",
+      "description": "SPA for managing to-do lists and their items.",
       "image": "",
       "github": "",
       "url": "",
-      "stack": ""
+      "stack": ["react.js", "typescript", "redux-toolkit", "material ui"]
     }
   ]
 }

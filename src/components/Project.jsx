@@ -17,7 +17,7 @@ const Project = ({ item }) => {
       <h2 className="title">{item.title}</h2>
       <p className="description">{item.description}</p>
       <div className="buttonDiv">
-        <a href={item.github} target="_blank" rel="noopener noreferrer">
+        <a href={item} target="_blank" rel="noopener noreferrer">
           <img className="ghlogo" src={github} alt="githubLogo" />
         </a>
         {item.url && (
